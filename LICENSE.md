@@ -1,4 +1,4 @@
-# 
+# Código abierto Ollama preajustes. Con interfaz amigable y entrenamiento de modelos personalizados — optimizado para el máximo rendimiento y eficiencia.
 
 
 
